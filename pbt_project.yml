@@ -106,7 +106,16 @@ sqlSnapshots:
     createdAt: '2026-02-27 20:43:28'
 sqlTests: {}
 sqlMacros: {}
-sqlSeeds: {}
+sqlSeeds:
+  .prophecy/metadata/sqlseeds/seed2:
+    name: seed2
+    schema: null
+    description: null
+    author: oetmqekm.m8w5b0kz@4lgafsb2.com
+    files:
+    - sources.yml
+    - dbt_project.yml
+    createdAt: '2026-02-27 20:43:31'
 sqlSources: {}
 sqlUnreferencedSources: {}
 sqlPipeline:
